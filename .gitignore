@@ -1,0 +1,20 @@
+# IntelliJ / IDE
+.idea/
+
+# Backend
+backend/target/
+backend/.idea/
+backend/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Environment / secrets
+.env
+backend/src/main/resources/application.properties
+
+# OS
+.DS_Store
+Thumbs.db
