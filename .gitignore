@@ -11,6 +11,9 @@ frontend/node_modules/
 frontend/build/
 frontend/dist/
 
+#Frontend (hidden completely)
+frontend/
+
 # Environment / secrets
 .env
 backend/src/main/resources/application.properties
